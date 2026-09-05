@@ -8,7 +8,8 @@
 
 `DATA SCIENCE` · `COMPUTER VISION` · `MACHINE LEARNING` · `RESEARCH`
 
-
+[![GitHub](https://img.shields.io/badge/GitHub-iamthearafatkhan-0d1117?style=for-the-badge&logo=github)](https://github.com/iamthearafatkhan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iamthearafatkhan/)
 
 </div>
 
