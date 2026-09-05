@@ -1,4 +1,5 @@
-<div style="border:2px solid #00d9ff; border-radius:20px; padding:24px; margin:30px 0; background:rgba(0,217,255,0.03); box-shadow:0 0 30px rgba(0,217,255,0.12);">
+<div style="border:2px solid #ff0040; border-radius:20px; padding:24px; margin:30px 0; background:rgba(0,0,0,0.85); box-shadow:0 0 40px rgba(255,0,64,0.3);">
+
 <div align="center">
 
 # `ARAFAT KHAN`
@@ -9,7 +10,10 @@
 
 
 
-</div></div>
+
+</div>
+
+</div>
 
 ---
 
