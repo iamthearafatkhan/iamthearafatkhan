@@ -1,6 +1,7 @@
-<div style="border:2px solid #ff0040; border-radius:20px; padding:24px; margin:30px 0; background:rgba(0,0,0,0.85); box-shadow:0 0 40px rgba(255,0,64,0.3);">
+<table width="100%" style="border:2px solid #ff0000; border-radius:20px; background:#0a0a0a; box-shadow:0 0 30px rgba(255,0,0,0.3);">
 
-<div align="center">
+<tr>
+<td align="center" style="padding:24px;">
 
 # `ARAFAT KHAN`
 
@@ -8,12 +9,11 @@
 
 `DATA SCIENCE` · `COMPUTER VISION` · `MACHINE LEARNING` · `RESEARCH`
 
-[![GitHub](https://img.shields.io/badge/GitHub-iamthearafatkhan-0d1117?style=for-the-badge&logo=github)](https://github.com/iamthearafatkhan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iamthearafatkhan/)
 
-</div>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
