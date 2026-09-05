@@ -1,12 +1,4 @@
-<div style="border:2px solid #ff0000; border-radius:20px; padding:24px; margin:30px 0; background:#0a0a0a; box-shadow:0 0 30px rgba(255,0,0,0.3); text-align:center;">
-
-# `ARAFAT KHAN`
-
-### `AI / ML ENGINEER IN PROGRESS`
-
-`DATA SCIENCE` · `COMPUTER VISION` · `MACHINE LEARNING` · `RESEARCH`
-
-</div>
+<img src="./assets/header.svg" width="100%" alt="Arafat Khan Header">
 
 ---
 
