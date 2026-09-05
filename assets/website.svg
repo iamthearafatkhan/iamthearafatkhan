@@ -1,18 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="80" viewBox="0 0 1200 80" preserveAspectRatio="xMidYMid meet">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" viewBox="0 0 1200 120" preserveAspectRatio="xMidYMid meet">
   
   <!-- Ocean blue glow layers -->
-  <rect x="0" y="0" width="1200" height="80" rx="20" fill="none" stroke="#0066cc" stroke-width="16" stroke-opacity="0.15" />
-  <rect x="2" y="2" width="1196" height="76" rx="18" fill="none" stroke="#0066cc" stroke-width="8" stroke-opacity="0.4" />
+  <rect x="0" y="0" width="1200" height="120" rx="20" fill="none" stroke="#0066cc" stroke-width="16" stroke-opacity="0.15" />
+  <rect x="2" y="2" width="1196" height="116" rx="18" fill="none" stroke="#0066cc" stroke-width="8" stroke-opacity="0.4" />
   
   <!-- Deep black background -->
-  <rect x="4" y="4" width="1192" height="72" rx="16" fill="#0a0a0a" />
+  <rect x="4" y="4" width="1192" height="112" rx="16" fill="#0a0a0a" />
   
   <!-- Inner ocean‑blue glow -->
-  <rect x="6" y="6" width="1188" height="68" rx="14" fill="none" stroke="#0066cc" stroke-width="10" stroke-opacity="0.25" />
+  <rect x="6" y="6" width="1188" height="108" rx="14" fill="none" stroke="#0066cc" stroke-width="10" stroke-opacity="0.25" />
   
   <!-- Sharp ocean‑blue border (bold) -->
-  <rect x="4" y="4" width="1192" height="72" rx="16" fill="none" stroke="#0066cc" stroke-width="4" />
+  <rect x="4" y="4" width="1192" height="112" rx="16" fill="none" stroke="#0066cc" stroke-width="4" />
   
-  <!-- Futuristic text – ocean blue, bold, spaced -->
-  <text x="600" y="48" font-size="32" font-family="'Courier New', monospace" font-weight="bold" fill="#0099ff" text-anchor="middle" letter-spacing="6">🌐 khan.dev</text>
+  <!-- Futuristic text – modern font stack, larger, bold -->
+  <text x="600" y="78" font-size="48" font-family="'Orbitron', 'Segoe UI', 'Arial Black', sans-serif" font-weight="bold" fill="#0099ff" text-anchor="middle" letter-spacing="8">🌐 khan.dev</text>
 </svg>
