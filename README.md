@@ -121,17 +121,26 @@ Add a new repository → stats update automatically. No manual editing needed.
 
 </div>
 <!-- ===== CONNECT ===== --><div style="border:2px solid #00d9ff; border-radius:20px; padding:24px; margin:30px 0; background:rgba(0,217,255,0.03); box-shadow:0 0 30px rgba(0,217,255,0.12);">
-CONNECT
+<!-- ===== CONNECT ===== -->
+<div style="border:2px solid #00d9ff; border-radius:20px; padding:24px; margin:30px 0; background:rgba(0,217,255,0.03); box-shadow:0 0 30px rgba(0,217,255,0.12);">
+
+## `CONNECT`
+
 <div align="center">
-https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=white
-https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=white
-https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white
 
-PORTFOLIO // COMING SOON
+[![GitHub](https://img.shields.io/badge/GitHub-iamthearafatkhan-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamthearafatkhan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamthearafatkhan/)
+[![Facebook](https://img.shields.io/badge/Facebook-iamthearafatkhan-0d1117?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/iamthearafatkhan)
+[![X](https://img.shields.io/badge/X-iamarafat33-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iamarafat33)
+[![Email](https://img.shields.io/badge/Email-arafat.khan.work@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arafat.khan.work@gmail.com)
 
+`PORTFOLIO // COMING SOON`
+
+</div>
+
+</div>
 </div></div>
+
 <div align="center">
 BUILD. · RESEARCH. · DEPLOY.
 
