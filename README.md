@@ -6,8 +6,7 @@
 
 `DATA SCIENCE` · `COMPUTER VISION` · `MACHINE LEARNING` · `RESEARCH`
 
-[![GitHub](https://img.shields.io/badge/GitHub-iamthearafatkhan-0d1117?style=for-the-badge&logo=github)](https://github.com/iamthearafatkhan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iamthearafatkhan/)
+
 
 </div>
 
@@ -129,10 +128,10 @@ Add a new repository → stats update automatically. No manual editing needed.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-iamthearafatkhan-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamthearafatkhan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamthearafatkhan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-iamthearafatkhan-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamthearafatkhan/)
 [![Facebook](https://img.shields.io/badge/Facebook-iamthearafatkhan-0d1117?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/iamthearafatkhan)
 [![X](https://img.shields.io/badge/X-iamarafat33-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iamarafat33)
-[![Email](https://img.shields.io/badge/Email-arafat.khan.work@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arafat.khan.work@gmail.com)
+[![Email](https://img.shields.io/badge/Email-arafat-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arafathossen21233@gmail.com)
 
 `PORTFOLIO // COMING SOON`
 
