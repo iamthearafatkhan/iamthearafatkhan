@@ -1,18 +1,11 @@
-<table width="100%" style="border:2px solid #ff0000; border-radius:20px; background:#0a0a0a; box-shadow:0 0 30px rgba(255,0,0,0.3);">
-
-<tr>
-<td align="center" style="padding:24px;">
-
-# `ARAFAT KHAN`
-
-### `AI / ML ENGINEER IN PROGRESS`
-
-`DATA SCIENCE` · `COMPUTER VISION` · `MACHINE LEARNING` · `RESEARCH`
-
-
-
-</td>
-</tr>
+<table border="2" bordercolor="#ff0000" bgcolor="#0a0a0a" cellpadding="20" width="100%">
+  <tr>
+    <td align="center">
+      <h1><code>ARAFAT KHAN</code></h1>
+      <h3><code>AI / ML ENGINEER IN PROGRESS</code></h3>
+      <p><code>DATA SCIENCE</code> · <code>COMPUTER VISION</code> · <code>MACHINE LEARNING</code> · <code>RESEARCH</code></p>
+    </td>
+  </tr>
 </table>
 
 ---
