@@ -1,6 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
-  <rect width="900" height="200" rx="20" fill="#0a0a0a" stroke="#ff0000" stroke-width="3"/>
-  <text x="450" y="55" font-size="32" font-family="monospace" font-weight="bold" fill="#e8fbff" text-anchor="middle">ARAFAT KHAN</text>
-  <text x="450" y="100" font-size="20" font-family="monospace" fill="#e8fbff" text-anchor="middle">AI / ML ENGINEER IN PROGRESS</text>
-  <text x="450" y="145" font-size="16" font-family="monospace" fill="#6bdfff" text-anchor="middle">DATA SCIENCE · COMPUTER VISION · MACHINE LEARNING · RESEARCH</text>
+  <defs>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <filter id="borderGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feFlood flood-color="#ff0000" flood-opacity="0.8" />
+      <feComposite in2="blur" operator="in" />
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Main background with glow -->
+  <rect x="0" y="0" width="900" height="200" rx="20" fill="#0a0a0a" filter="url(#borderGlow)" />
+  
+  <!-- Red border (with glow) -->
+  <rect x="2" y="2" width="896" height="196" rx="18" fill="none" stroke="#ff0000" stroke-width="3" filter="url(#glow)" />
+  
+  <!-- Title -->
+  <text x="450" y="60" font-size="34" font-family="monospace" font-weight="bold" fill="#e8fbff" text-anchor="middle" letter-spacing="2">ARAFAT KHAN</text>
+  
+  <!-- Subtitle -->
+  <text x="450" y="105" font-size="20" font-family="monospace" fill="#e8fbff" text-anchor="middle">AI / ML ENGINEER IN PROGRESS</text>
+  
+  <!-- Tags -->
+  <text x="450" y="150" font-size="16" font-family="monospace" fill="#6bdfff" text-anchor="middle">DATA SCIENCE · COMPUTER VISION · MACHINE LEARNING · RESEARCH</text>
 </svg>
