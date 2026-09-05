@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+  <rect width="900" height="200" rx="20" fill="#0a0a0a" stroke="#ff0000" stroke-width="3"/>
+  <text x="450" y="55" font-size="32" font-family="monospace" font-weight="bold" fill="#e8fbff" text-anchor="middle">ARAFAT KHAN</text>
+  <text x="450" y="100" font-size="20" font-family="monospace" fill="#e8fbff" text-anchor="middle">AI / ML ENGINEER IN PROGRESS</text>
+  <text x="450" y="145" font-size="16" font-family="monospace" fill="#6bdfff" text-anchor="middle">DATA SCIENCE · COMPUTER VISION · MACHINE LEARNING · RESEARCH</text>
+</svg>
