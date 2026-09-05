@@ -77,6 +77,9 @@ Engineering
 <img src="https://skillicons.dev/icons?i=github,docker,vscode,linux&perline=8" alt="GitHub Docker VS Code Linux"></div>
 </div>
 <!-- ===== PROJECTS ===== --><div style="border:2px solid #00d9ff; border-radius:20px; padding:24px; margin:30px 0; background:rgba(0,217,255,0.03); box-shadow:0 0 30px rgba(0,217,255,0.12);">
+
+---
+
 PROJECTS
 Each project card is manually curated. The live system metrics below are automatic.
 
