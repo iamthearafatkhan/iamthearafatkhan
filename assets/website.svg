@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="80" viewBox="0 0 400 80">
+  <!-- Outer glow (red) -->
+  <rect x="0" y="0" width="400" height="80" rx="20" fill="none" stroke="#ff0000" stroke-width="10" stroke-opacity="0.15" />
+  <rect x="2" y="2" width="396" height="76" rx="18" fill="none" stroke="#ff0000" stroke-width="5" stroke-opacity="0.4" />
+  
+  <!-- Black background -->
+  <rect x="4" y="4" width="392" height="72" rx="16" fill="#0a0a0a" />
+  
+  <!-- Inner glow (subtle red inside) -->
+  <rect x="6" y="6" width="388" height="68" rx="14" fill="none" stroke="#ff0000" stroke-width="6" stroke-opacity="0.2" />
+  
+  <!-- Sharp red border -->
+  <rect x="4" y="4" width="392" height="72" rx="16" fill="none" stroke="#ff0000" stroke-width="2" />
+  
+  <!-- Website link - bold deep red -->
+  <text x="200" y="48" font-size="28" font-family="monospace" font-weight="bold" fill="#cc0000" text-anchor="middle" letter-spacing="3">🌐 khan.dev</text>
+</svg>
