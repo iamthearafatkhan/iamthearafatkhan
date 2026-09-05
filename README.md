@@ -52,8 +52,10 @@
 ---
 
 <!-- ===== WEBSITE ===== -->
-## `🌐 WEBSITE`
-<div style="border:2px solid #00d9ff; border-radius:20px; padding:16px 32px; margin:20px auto; display:inline-block; box-shadow:0 0 25px rgba(0,217,255,0.2); background:rgba(0,217,255,0.05);"> <a href="https://khan.dev" style="font-size:28px; font-weight:bold; color:#00d9ff; text-decoration:none; letter-spacing:4px;">🌐 khan.dev</a> </div>
+<!-- ===== WEBSITE ===== -->
+<div align="center">
+  <img src="./assets/website.svg" alt="khan.dev" width="400">
+</div>
 
 <!-- ===== SKILLS ===== -->
 
