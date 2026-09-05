@@ -61,11 +61,15 @@
 
 ---
 
-</td> </tr> </table></div>
-<!-- ===== WEBSITE ===== --><div style="border:2px solid #00d9ff; border-radius:20px; padding:16px 32px; margin:20px auto; display:inline-block; box-shadow:0 0 25px rgba(0,217,255,0.2); background:rgba(0,217,255,0.05);"> <a href="https://khan.dev" style="font-size:28px; font-weight:bold; color:#00d9ff; text-decoration:none; letter-spacing:4px;">🌐 khan.dev</a> </div>
-<!-- ===== SKILLS ===== --><div style="border:2px solid #00d9ff; border-radius:20px; padding:24px; margin:30px 0; background:rgba(0,217,255,0.03); box-shadow:0 0 30px rgba(0,217,255,0.12);">
+<!-- ===== WEBSITE ===== -->
+## `🌐 WEBSITE`
+<div style="border:2px solid #00d9ff; border-radius:20px; padding:16px 32px; margin:20px auto; display:inline-block; box-shadow:0 0 25px rgba(0,217,255,0.2); background:rgba(0,217,255,0.05);"> <a href="https://khan.dev" style="font-size:28px; font-weight:bold; color:#00d9ff; text-decoration:none; letter-spacing:4px;">🌐 khan.dev</a> </div>
 
-SKILLS
+<!-- ===== SKILLS ===== -->
+
+<div style="border:2px solid #00d9ff; border-radius:20px; padding:24px; margin:30px 0; background:rgba(0,217,255,0.03); box-shadow:0 0 30px rgba(0,217,255,0.12);">
+
+## `SKILLS`
 <div align="center">
 Core
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,opencv,sql&perline=8" alt="Python PyTorch TensorFlow Scikit-learn Pandas NumPy OpenCV SQL">
@@ -79,7 +83,7 @@ Engineering
 
 ---
 
-PROJECTS
+## `PROJECTS`
 Each project card is manually curated. The live system metrics below are automatic.
 
 <!-- Project 1 -->
@@ -98,11 +102,12 @@ Each project card is manually curated. The live system metrics below are automat
 </div>
 <!-- ===== CONTRIBUTIONS ===== -->
 <div style="border:2px solid #00d9ff; border-radius:20px; padding:24px; margin:30px 0; background:rgba(0,217,255,0.03); box-shadow:0 0 30px rgba(0,217,255,0.12);">
-CONTRIBUTIONS
+## `CONTRIBUTION`
 <div align="center"> <img src="https://ghchart.xqsit94.in/dark:default/iamthearafatkhan" alt="GitHub contribution calendar" width="100%"> </div></div>
 <!-- ===== LIVE STATS ===== -->
 <div style="border:2px solid #00d9ff; border-radius:20px; padding:24px; margin:30px 0; background:rgba(0,217,255,0.03); box-shadow:0 0 30px rgba(0,217,255,0.12);">
-LIVE STATS
+
+## `LIVE STATS`
 <div align="center"><img src="./assets/github-stats.svg" alt="Live GitHub statistics" width="100%">
 
 
