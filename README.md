@@ -101,8 +101,11 @@ Each project card is manually curated. The live system metrics below are automat
 
 </div>
 <!-- ===== CONTRIBUTIONS ===== -->
+
 <div style="border:2px solid #00d9ff; border-radius:20px; padding:24px; margin:30px 0; background:rgba(0,217,255,0.03); box-shadow:0 0 30px rgba(0,217,255,0.12);">
+
 ## `CONTRIBUTION`
+  
 <div align="center"> <img src="https://ghchart.xqsit94.in/dark:default/iamthearafatkhan" alt="GitHub contribution calendar" width="100%"> </div></div>
 <!-- ===== LIVE STATS ===== -->
 <div style="border:2px solid #00d9ff; border-radius:20px; padding:24px; margin:30px 0; background:rgba(0,217,255,0.03); box-shadow:0 0 30px rgba(0,217,255,0.12);">
