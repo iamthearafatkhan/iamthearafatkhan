@@ -54,7 +54,9 @@
 <!-- ===== WEBSITE ===== -->
 <!-- ===== WEBSITE ===== -->
 <div align="center">
-  <img src="./assets/website.svg" alt="khan.dev" width="400">
+  <a href="https://khan.dev">
+    <img src="./assets/website.svg" width="100%" height="120" alt="khan.dev">
+  </a>
 </div>
 
 <!-- ===== SKILLS ===== -->
