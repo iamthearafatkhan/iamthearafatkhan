@@ -1,17 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="80" viewBox="0 0 400 80">
-  <!-- Outer glow (red) -->
-  <rect x="0" y="0" width="400" height="80" rx="20" fill="none" stroke="#ff0000" stroke-width="10" stroke-opacity="0.15" />
-  <rect x="2" y="2" width="396" height="76" rx="18" fill="none" stroke="#ff0000" stroke-width="5" stroke-opacity="0.4" />
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="80" viewBox="0 0 1200 80" preserveAspectRatio="xMidYMid meet">
   
-  <!-- Black background -->
-  <rect x="4" y="4" width="392" height="72" rx="16" fill="#0a0a0a" />
+  <!-- Ocean blue glow layers -->
+  <rect x="0" y="0" width="1200" height="80" rx="20" fill="none" stroke="#0066cc" stroke-width="16" stroke-opacity="0.15" />
+  <rect x="2" y="2" width="1196" height="76" rx="18" fill="none" stroke="#0066cc" stroke-width="8" stroke-opacity="0.4" />
   
-  <!-- Inner glow (subtle red inside) -->
-  <rect x="6" y="6" width="388" height="68" rx="14" fill="none" stroke="#ff0000" stroke-width="6" stroke-opacity="0.2" />
+  <!-- Deep black background -->
+  <rect x="4" y="4" width="1192" height="72" rx="16" fill="#0a0a0a" />
   
-  <!-- Sharp red border -->
-  <rect x="4" y="4" width="392" height="72" rx="16" fill="none" stroke="#ff0000" stroke-width="2" />
+  <!-- Inner ocean‑blue glow -->
+  <rect x="6" y="6" width="1188" height="68" rx="14" fill="none" stroke="#0066cc" stroke-width="10" stroke-opacity="0.25" />
   
-  <!-- Website link - bold deep red -->
-  <text x="200" y="48" font-size="28" font-family="monospace" font-weight="bold" fill="#cc0000" text-anchor="middle" letter-spacing="3">🌐 Wbsite progressing</text>
+  <!-- Sharp ocean‑blue border (bold) -->
+  <rect x="4" y="4" width="1192" height="72" rx="16" fill="none" stroke="#0066cc" stroke-width="4" />
+  
+  <!-- Futuristic text – ocean blue, bold, spaced -->
+  <text x="600" y="48" font-size="32" font-family="'Courier New', monospace" font-weight="bold" fill="#0099ff" text-anchor="middle" letter-spacing="6">🌐 khan.dev</text>
 </svg>
