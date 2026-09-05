@@ -12,10 +12,10 @@
 
 ---
 
-<!-- ===== PROFILE SCAN ===== -->
+<!-- ===== PROFILE Scan ===== -->
 <div style="border:2px solid #00d9ff; border-radius:20px; padding:24px; margin:30px 0; background:rgba(0,217,255,0.03); box-shadow:0 0 30px rgba(0,217,255,0.12);">
 
-## `PROFILE SCAN`
+## `PROFILE`
 
 <table width="100%">
 <tr>
@@ -32,7 +32,7 @@
 ┌─ IDENTITY ───────────────────────────┐
 
   NAME
-  Arafat Khan
+  Md Arafat Hossen Rabby
 
   NATIONALITY
   🇧🇩 Bangladeshi
@@ -47,7 +47,7 @@
   AI · ML · CV · Research · Data
 
   EDUCATION
-  BSc · Computer Science & Engineering
+  BSc · Computer Science & Engineering - 2026
 
   NEXT
   MSc · Data Science · 2027
