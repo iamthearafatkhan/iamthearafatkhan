@@ -19,7 +19,7 @@
 <div style="border:2px solid #00d9ff; border-radius:12px; padding:16px; background:rgba(0,217,255,0.05);">
 
 ```text
-┌─ IDENTITY ───────────────────────────┐
+┌─────────────IDENTITY───────────────┐
 
   NAME
   Md Arafat Hossen Rabby
@@ -99,8 +99,16 @@ Each project card is manually curated. The live system metrics below are automat
 <div style="border:2px solid #00d9ff; border-radius:20px; padding:24px; margin:30px 0; background:rgba(0,217,255,0.03); box-shadow:0 0 30px rgba(0,217,255,0.12);">
 
 ## `CONTRIBUTION`
-  
-<div align="center"> <img src="https://ghchart.xqsit94.in/dark:default/iamthearafatkhan" alt="GitHub contribution calendar" width="100%"> </div></div>
+
+<div align="center">
+
+<img
+  src="https://ghchart.xqsit94.in/dark:00bfff/iamthearafatkhan"
+  alt="Arafat Khan GitHub Contribution Calendar"
+  width="100%"
+/>
+
+</div>
 <!-- ===== LIVE STATS ===== -->
 <div style="border:2px solid #00d9ff; border-radius:20px; padding:24px; margin:30px 0; background:rgba(0,217,255,0.03); box-shadow:0 0 30px rgba(0,217,255,0.12);">
 
@@ -143,7 +151,7 @@ Add a new repository → stats update automatically. No manual editing needed.
 </div></div>
 
 <div align="center">
-BUILD. · RESEARCH. · DEPLOY.
+RESEARCH. · BUILD. · DEPLOY.
 
 AI is not just something I study. It's something I want to build.
 
