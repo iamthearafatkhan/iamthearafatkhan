@@ -54,8 +54,8 @@
 <!-- ===== WEBSITE ===== -->
 <!-- ===== WEBSITE ===== -->
 <div align="center">
-  <a href="https://khan.dev">
-    <img src="./assets/website.svg" width="100%" height="120" alt="khan.dev">
+  <a href="arafatkhan.vercel.app">
+    <img src="./assets/website.svg" width="100%" height="120" alt="arafatkhan.vercel.app">
   </a>
 </div>
 
