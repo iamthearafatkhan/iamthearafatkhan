@@ -55,7 +55,7 @@
 <!-- ===== WEBSITE ===== -->
 <div align="center">
   <a href="https://arafatkhan.vercel.app" target="_blank" rel="noopener noreferrer">
-    <img src="assets/website.svg" width="100" height="120" alt="Arafat Khan Portfolio">
+    <img src="assets/website.svg" style="width: 300px; height: auto;" alt="Arafat Khan Portfolio">
   </a>
 </div>
 
