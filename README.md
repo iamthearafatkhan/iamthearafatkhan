@@ -52,8 +52,12 @@
 ---
 
 <!-- ===== WEBSITE ===== -->
-<!-- ===== WEBSITE ===== -->
 <div align="center">
+  <h1 align="center">
+    <a href="https://arafatkhan.vercel.app" target="_blank" rel="noopener noreferrer">
+      <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=EF4444&center=true&vCenter=true&width=435&lines=ARAFAT+PORTFOLIO;VISIT+MY+LIVE+SITE" alt="Typing Header" />
+    </a>
+  </h1>
   <a href="https://arafatkhan.vercel.app" target="_blank" rel="noopener noreferrer">
     <img src="assets/website.svg" style="width: 300px; height: auto;" alt="Arafat Khan Portfolio">
   </a>
