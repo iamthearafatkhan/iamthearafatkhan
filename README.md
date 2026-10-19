@@ -92,8 +92,56 @@ Each project card is manually curated. The live system metrics below are automat
 <div style="border:2px solid #00d9ff; border-radius:16px; padding:20px; margin:18px 0; background:rgba(0,217,255,0.05); box-shadow:0 0 20px rgba(0,217,255,0.10);"> <h3 style="color:#00d9ff; margin-top:0;">🩺Diabetes Prediction</h3> <p> <a href="https://github.com/iamthearafatkhan/Diabetes-Prediction-using-Flask"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a> </p> <img src="https://skillicons.dev/icons?i=python,flask&perline=8" alt="Python Flask"/> <p><code>ANN</code> · <code>SMOTE</code> · <code>Machine Learning</code> · <code>Flask</code> · <code>HTML</code> · <code>CSS</code></p> <p style="color:#c0d0e0;">A machine‑learning web application for diabetes prediction, combining an artificial neural network pipeline with SMOTE‑based handling of class imbalance.</p> </div><hr style="border:1px solid rgba(0,217,255,0.2); margin:24px 0;">
 <!-- Project 4 -->
 <div style="border:2px solid #00d9ff; border-radius:16px; padding:20px; margin:18px 0; background:rgba(0,217,255,0.05); box-shadow:0 0 20px rgba(0,217,255,0.10);"> <h3 style="color:#00d9ff; margin-top:0;">💉COVID‑19 Vaccine Registration System</h3> <p> <a href="https://github.com/iamthearafatkhan/Vaccine-Registration"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a> </p> <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js&perline=8" alt="PHP MySQL HTML CSS JavaScript"/> <p style="color:#c0d0e0;">A web‑based vaccine registration system built with PHP and MySQL, with HTML/CSS/JavaScript on the front end.</p> </div><hr style="border:1px solid rgba(0,217,255,0.2); margin:24px 0;">
+
 <!-- Project 5 -->
-<div style="border:2px solid #00d9ff; border-radius:16px; padding:20px; margin:18px 0; background:rgba(0,217,255,0.05); box-shadow:0 0 20px rgba(0,217,255,0.10);"> <h3 style="color:#00d9ff; margin-top:0;">🚗Car Price Prediction</h3> <p> <a href="https://github.com/iamthearafatkhan/Car-Price-Prediction-ML"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a> </p> <img src="https://skillicons.dev/icons?i=python,flask&perline=8" alt="Python Flask"/> <p><code>Machine Learning</code> · <code>Regression</code> · <code>Flask</code> · <code>HTML</code> · <code>CSS</code></p> <p style="color:#c0d0e0;">A machine‑learning regression project that predicts car prices through a Flask web interface.</p> </div>
+<div style="border:2px solid #00d9ff; border-radius:16px; padding:20px; margin:18px 0; background:rgba(0,217,255,0.05); box-shadow:0 0 20px rgba(0,217,255,0.10);"> <h3 style="color:#00d9ff; margin-top:0;">💉DataForge</h3> <p> <a href="https://github.com/iamthearafatkhan/Vaccine-Registration"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a> </p> <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js&perline=8" alt="PHP MySQL HTML CSS JavaScript"/> <p style="color:#c0d0e0;">A web-based data workbench for analysts, data scientists, and anyone who works with tabular data. Upload a CSV, Excel, or JSON file and go from raw and messy to clean and queryable — without writing a line of code.</p> </div><hr style="border:1px solid rgba(0,217,255,0.2); margin:24px 0;">
+
+<!-- Project 6 -->
+<div style="border:2px solid #00d9ff; border-radius:16px; padding:20px; margin:18px 0; background:rgba(0,217,255,0.05); box-shadow:0 0 20px rgba(0,217,255,0.10);"> <h3 style="color:#00d9ff; margin-top:0;">🚗CodeExam (CodeAssess)</h3> <p> <a href="https://github.com/iamthearafatkhan/Car-Price-Prediction-ML"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a> </p> <img src="https://skillicons.dev/icons?i=python,flask&perline=8" alt="Python Flask"/> <p><code>Machine Learning</code> · <code>Regression</code> · <code>Flask</code> · <code>HTML</code> · <code>CSS</code></p> <p style="color:#c0d0e0;">An online programming examination platform for universities. Teachers create coding exams, students solve problems in-browser, code is auto-graded against hidden test cases, and results are published on demand.</p> </div>
+
+<!-- Project 7 -->
+<div style="border:2px solid #00d9ff; border-radius:16px; padding:20px; margin:18px 0; background:rgba(0,217,255,0.05); box-shadow:0 0 20px rgba(0,217,255,0.10);"> <h3 style="color:#00d9ff; margin-top:0;">🚗Vespera</h3> <p> <a href="https://github.com/iamthearafatkhan/Car-Price-Prediction-ML"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a> </p> <img src="https://skillicons.dev/icons?i=python,flask&perline=8" alt="Python Flask"/> <p><code>Machine Learning</code> · <code>Regression</code> · <code>Flask</code> · <code>HTML</code> · <code>CSS</code></p> <p style="color:#c0d0e0;">A machine‑learning regression project that predicts car prices through a Flask web interface.</p> </div>
+
+<!-- 8 FreePDF Editor & Merger -->
+<div style="border:2px solid #00d9ff; border-radius:16px; padding:20px; margin:18px 0; background:rgba(0,217,255,0.05); box-shadow:0 0 20px rgba(0,217,255,0.10);"> 
+  <h3 style="color:#00d9ff; margin-top:0;">📄 FreePDF Editor & Merger</h3> 
+  <p> 
+    <a href="https://github.com/iamthearafatkhan/free-pdf-editor" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Repo"/>
+    </a> 
+    <a href="https://pdfeditnow.pages.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Demo-00d9ff?style=flat&logo=googlechrome&logoColor=white" alt="Live Demo"/>
+    </a>
+  </p> 
+  <img src="https://skillicons.dev/icons?i=html,css,js&perline=8" alt="HTML CSS JS"/> 
+  <p>
+    <code>Web Application</code> · <code>PDF Editor</code> · <code>PDF Merger</code> · <code>JavaScript</code> · <code>Frontend</code>
+  </p> 
+  <p style="color:#c0d0e0;">
+    A completely free, browser-based PDF editor and merger. Edit text in any PDF, combine multiple files, and fix page numbers — without uploading your files to a server.
+  </p> 
+</div>
+
+<!-- Project 9: AI Resume Analyzer & Builder -->
+<div style="border:2px solid #DE1A58; border-radius:16px; padding:20px; margin:18px 0; background:rgba(222, 26, 88, 0.05); box-shadow:0 0 20px rgba(222, 26, 88, 0.15);"> 
+  <h3 style="color:#DE1A58; margin-top:0;">📄 CVELORA: AI Resume Analyzer & Builder</h3> 
+  <p> 
+    <a href="https://github.com/iamthearafatkhan/resume-ai"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+    <a href="https://cvelora.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-Vercel-black?style=flat&logo=vercel&logoColor=white"/></a>
+  </p> 
+  
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,python,fastapi,sklearn&perline=8" alt="React FastAPI"/> 
+  
+  <p><code>Full-Stack</code> · <code>NLP</code> · <code>FastAPI</code> · <code>React</code> · <code>Hugging Face</code> · <code>ATS Optimizer</code></p> 
+  
+  <p style="color:#c0d0e0;">CVELORA is a privacy-first, full-stack SaaS platform designed to help job seekers optimize their resumes. By combining deterministic ATS (Applicant Tracking System) rules with advanced NLP semantic matching (using Sentence-Transformers), it provides real, explainable scores, exact skill gap analyses, and AI-driven job recommendations. It also features an interactive CV Builder with 3 industry-standard templates and AI bullet-point generation.</p> 
+</div>
+
+
+<!-- Project 10 -->
+<div style="border:2px solid #00d9ff; border-radius:16px; padding:20px; margin:18px 0; background:rgba(0,217,255,0.05); box-shadow:0 0 20px rgba(0,217,255,0.10);"> <h3 style="color:#00d9ff; margin-top:0;">🚗Car Price Prediction</h3> <p> <a href="https://github.com/iamthearafatkhan/Car-Price-Prediction-ML"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a> </p> <img src="https://skillicons.dev/icons?i=python,flask&perline=8" alt="Python Flask"/> <p><code>Machine Learning</code> · <code>Regression</code> · <code>Flask</code> · <code>HTML</code> · <code>CSS</code></p> <p style="color:#c0d0e0;">A privacy-first life tracker. Courses with real finish-date forecasting, expenses with savings analytics, habits with streaks, and a class schedule — all without an email account.</p> </div>
+
+
 
 </div>
 
