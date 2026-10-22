@@ -192,7 +192,7 @@ Add a new repository → stats update automatically. No manual editing needed.
 [![GitHub](https://img.shields.io/badge/GitHub-iamthearafatkhan-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamthearafatkhan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-iamthearafatkhan-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamthearafatkhan/)
 [![Facebook](https://img.shields.io/badge/Facebook-iamthearafatkhan-0d1117?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/iamthearafatkhan)
-[![X](https://img.shields.io/badge/X-iamarafat33-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iamarafat33)
+[![X](https://img.shields.io/badge/X-iamarafat33-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iamarafatkhan33)
 [![Email](https://img.shields.io/badge/Email-arafat-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arafathossen21233@gmail.com)
 [![Dev.to](https://img.shields.io/badge/Dev.to-iamthearafatkhan-0d1117?style=for-the-badge&logo=devto&logoColor=white)](https://dev.to/iamthearafatkhan)
 
