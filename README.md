@@ -59,7 +59,7 @@ Engineering
 
 </div>
 
-🌌 My Contribution Black Hole
+## My Contribution Black Hole
 <div align="center" style="border:2px solid #00d9ff; border-radius:20px; padding:24px; margin:30px 0; background:#000; box-shadow:0 0 40px rgba(0,217,255,0.25);">
 
 Every commit is pulled past the event horizon. The more I ship, the more massive,
