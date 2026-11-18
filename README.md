@@ -2,10 +2,9 @@
 
 ---
 
-<!-- ===== PROFILE ===== -->
-<div style="border:2px solid #00d9ff; border-radius:20px; padding:24px; margin:30px 0; background:rgba(0,217,255,0.03); box-shadow:0 0 30px rgba(0,217,255,0.12);">
-
 ## 👤 Profile
+
+<div style="border:2px solid #00d9ff; border-radius:20px; padding:24px; margin:30px 0; background:rgba(0,217,255,0.03); box-shadow:0 0 30px rgba(0,217,255,0.12);">
 
 <table width="100%">
 <tr>
@@ -21,9 +20,7 @@
   EDUCATION    BSc · CSE — 2026
   NEXT         MSc · Data Science — 2027
 └────────────────────────────────────────┘
-
 ```
-
 </td>
 <td width="45%" valign="top">
 
@@ -34,10 +31,9 @@
 
 </div>
 
-<!-- ===== PORTFOLIO ===== -->
+🌐 Portfolio
 <div align="center" style="margin:40px 0;">
 
-🌐 Portfolio
 <a href="https://arafatkhan.vercel.app" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00d9ff&labelColor=0d1117" alt="Portfolio"/>
 </a>
@@ -48,11 +44,9 @@
 
 </div>
 
-
-<!-- ===== SKILLS ===== -->
+🛠️ Skills
 <div style="border:2px solid #00d9ff; border-radius:20px; padding:24px; margin:30px 0; background:rgba(0,217,255,0.03); box-shadow:0 0 30px rgba(0,217,255,0.12);">
 
-🛠️ Skills
 <div align="center">
 
 Core AI & Data
@@ -65,35 +59,26 @@ Engineering
 
 </div>
 
-<!-- ===== BLACK HOLE (moving, 3D) ===== -->
-<div align="center" style="border:2px solid #00d9ff; border-radius:20px; padding:24px; margin:30px 0; background:#000000; box-shadow:0 0 40px rgba(0,217,255,0.25);">
-
 🌌 My Contribution Black Hole
-Every commit, every line of code — pulled into the singularity.
-<!-- Animated 3D black hole simulation, credit: NASA's Goddard Space Flight Center -->
 <div align="center" style="border:2px solid #00d9ff; border-radius:20px; padding:24px; margin:30px 0; background:#000; box-shadow:0 0 40px rgba(0,217,255,0.25);">
-
-## 🌌 My Contribution Black Hole
 
 Every commit is pulled past the event horizon. The more I ship, the more massive,
 brighter and hotter it burns.
-
 <img src="./assets/blackhole.svg" alt="Contribution black hole" width="100%"/>
 
 <p align="center"><sub>Auto-generated daily from my GitHub commit count · real lensing geometry</sub></p>
 
 </div>
 
-<!-- ===== CONTRIBUTION GRAPH + LIVE STATS ===== -->
+📊 Contribution Graph & Live Stats
 <div style="border:2px solid #00d9ff; border-radius:20px; padding:24px; margin:30px 0; background:rgba(0,217,255,0.03); box-shadow:0 0 30px rgba(0,217,255,0.12);">
 
-📊 Contribution Graph & Live Stats
 <div align="center">
 
-<!-- Contribution calendar: color intensity grows automatically with your activity -->
 <img src="https://ghchart.xqsit94.in/dark:00bfff/iamthearafatkhan" alt="GitHub Contribution Calendar" width="100%"/>
 
-<!-- Stats card (left) + language bars (right). Do NOT add another top-langs card without layout=compact -->
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=iamthearafatkhan&show_icons=true&theme=dark&hide_border=true&title_color=00d9ff&icon_color=00ffaa&text_color=c0d0e0&bg_color=0d1117" alt="GitHub Stats" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamthearafatkhan&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=00d9ff&text_color=c0d0e0&bg_color=0d1117" alt="Top Languages" width="48%"/>
 
@@ -105,6 +90,7 @@ brighter and hotter it burns.
 
 </div>
 
+🔗 Connect
 <!-- ===== CONNECT ===== -->
 <div style="border: 1px solid #00d9ff; border-radius: 16px; padding: 24px; margin: 24px 0; background: rgba(0, 217, 255, 0.02); text-align: center;">
 
@@ -130,7 +116,7 @@ brighter and hotter it burns.
 
 </div>
 
-<div align="center" style="margin-top: 40px; color: #8892b0; font-family: monospace; font-size: 12px; letter-spacing: 2px;">
-<p>RESEARCH. · BUILD. · DEPLOY.</p>
-<p style="opacity: 0.6;">© 2024 Md Arafat Hossen Rabby</p>
+<div align="center" style="color:#8892b0; font-family:monospace; font-size:12px; letter-spacing:2px;">
+RESEARCH. · BUILD. · DEPLOY.<br/>
+© 2026 Md Arafat Hossen Rabby
 </div>
