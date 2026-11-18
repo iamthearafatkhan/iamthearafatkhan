@@ -71,9 +71,16 @@ Engineering
 🌌 My Contribution Black Hole
 Every commit, every line of code — pulled into the singularity.
 <!-- Animated 3D black hole simulation, credit: NASA's Goddard Space Flight Center -->
-<img src="https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014132/BHW_Supermassive_Black_Hole_Simulation.gif" alt="Spinning 3D Black Hole" width="420"/>
+<div align="center" style="border:2px solid #00d9ff; border-radius:20px; padding:24px; margin:30px 0; background:#000; box-shadow:0 0 40px rgba(0,217,255,0.25);">
 
-<p align="center"><sub>Animation: NASA's Goddard Space Flight Center — supermassive black hole simulation with photon ring</sub></p>
+## 🌌 My Contribution Black Hole
+
+Every commit is pulled past the event horizon. The more I ship, the more massive,
+brighter and hotter it burns.
+
+<img src="./assets/blackhole.svg" alt="Contribution black hole" width="100%"/>
+
+<p align="center"><sub>Auto-generated daily from my GitHub commit count · real lensing geometry</sub></p>
 
 </div>
 
