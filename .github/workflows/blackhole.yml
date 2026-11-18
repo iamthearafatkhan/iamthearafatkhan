@@ -1,0 +1,29 @@
+name: Black Hole Mass Update
+on:
+  schedule:
+    - cron: "0 0 * * *"        # regenerates every day
+  workflow_dispatch:           # manual button
+  push:
+    paths:
+      - "README.md"
+      - "tools/blackhole.py"
+      - ".github/workflows/blackhole.yml"
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - name: Render black hole from live commit count
+        env: { GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}" }
+        run: python tools/blackhole.py
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/blackhole.svg
+          git diff --staged --quiet || git commit -m "chore: black hole mass update"
+          git push
